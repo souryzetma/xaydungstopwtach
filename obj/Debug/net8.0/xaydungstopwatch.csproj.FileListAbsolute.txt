@@ -1,0 +1,14 @@
+E:\xaydungstopwatch\bin\Debug\net8.0\xaydungstopwatch.exe
+E:\xaydungstopwatch\bin\Debug\net8.0\xaydungstopwatch.deps.json
+E:\xaydungstopwatch\bin\Debug\net8.0\xaydungstopwatch.runtimeconfig.json
+E:\xaydungstopwatch\bin\Debug\net8.0\xaydungstopwatch.dll
+E:\xaydungstopwatch\bin\Debug\net8.0\xaydungstopwatch.pdb
+E:\xaydungstopwatch\obj\Debug\net8.0\xaydungstopwatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\xaydungstopwatch\obj\Debug\net8.0\xaydungstopwatch.AssemblyInfoInputs.cache
+E:\xaydungstopwatch\obj\Debug\net8.0\xaydungstopwatch.AssemblyInfo.cs
+E:\xaydungstopwatch\obj\Debug\net8.0\xaydungstopwatch.csproj.CoreCompileInputs.cache
+E:\xaydungstopwatch\obj\Debug\net8.0\xaydungstopwatch.dll
+E:\xaydungstopwatch\obj\Debug\net8.0\refint\xaydungstopwatch.dll
+E:\xaydungstopwatch\obj\Debug\net8.0\xaydungstopwatch.pdb
+E:\xaydungstopwatch\obj\Debug\net8.0\xaydungstopwatch.genruntimeconfig.cache
+E:\xaydungstopwatch\obj\Debug\net8.0\ref\xaydungstopwatch.dll
